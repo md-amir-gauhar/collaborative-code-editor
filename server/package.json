@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/md-amir-gauhar/collaborative-code-editor/issues"
   },
-  "homepage": "https://github.com/md-amir-gauhar/collaborative-code-editor#readme"
+  "homepage": "https://github.com/md-amir-gauhar/collaborative-code-editor#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
